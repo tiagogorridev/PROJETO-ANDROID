@@ -1,4 +1,4 @@
-![image](https://github.com/tiagogorridev/PROJETO-ANDROID/assets/155651809/3bdee5a2-3e63-4742-a162-534ffca15c73)Realização de um projeto de site com diversas funções e responsivos em HTML e CSS
+Realização de um projeto de site com diversas funções e responsivos em HTML e CSS
 Link: https://tiagogorridev.github.io/PROJETO-ANDROID/
 
 ![image](https://github.com/tiagogorridev/PROJETO-ANDROID/assets/155651809/34a276a5-85ea-40f0-826c-a5c1d27a244c)
